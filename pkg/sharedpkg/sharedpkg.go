@@ -4,6 +4,6 @@ import "fmt"
 
 func Print() {
 
-	fmt.Println("sharedpkg v0")
+	fmt.Println("sharedpkg v2")
 
 }

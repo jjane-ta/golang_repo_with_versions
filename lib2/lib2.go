@@ -1,5 +1,5 @@
 package lib2
 
-func Version() string {
-	return "lib2 v0"
-}
+import "fmt"
+
+func Version() { fmt.Println("lib2 v0") }

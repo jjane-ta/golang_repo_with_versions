@@ -1,4 +1,4 @@
-github.com/jjane-ta/golang_repo_with_versions/lib1 v0.0.1 h1:/ntV+gIvp154N6tyhNmo2t/wWaJh/b8VMN1M72C3Khk=
-github.com/jjane-ta/golang_repo_with_versions/lib1 v0.0.1/go.mod h1:FmzDZQobDEgYObaF5tzaYRRs3UnY+ONwREOWaDYniFE=
-github.com/jjane-ta/golang_repo_with_versions/lib2 v0.0.1 h1:MQWmfDg/kbsvzj0KBw7BQxh7e0gi0991n7ZNJWtYz9M=
-github.com/jjane-ta/golang_repo_with_versions/lib2 v0.0.1/go.mod h1:faUspHKGwqJN3x/jcOTLIdwvsA3f/thwsScfO+k0j/o=
+github.com/jjane-ta/golang_repo_with_versions/lib1 v1.0.0 h1:fNXCj+Dqmkw85vMFtG/ws9F6wuz62FtsVAeWEdAJDPM=
+github.com/jjane-ta/golang_repo_with_versions/lib1 v1.0.0/go.mod h1:FmzDZQobDEgYObaF5tzaYRRs3UnY+ONwREOWaDYniFE=
+github.com/jjane-ta/golang_repo_with_versions/lib2 v1.0.0 h1:SQ6Ghq6cdAPzV0Nr+0fNmvhflrZEG3Hec1FgaE/k2Qo=
+github.com/jjane-ta/golang_repo_with_versions/lib2 v1.0.0/go.mod h1:faUspHKGwqJN3x/jcOTLIdwvsA3f/thwsScfO+k0j/o=

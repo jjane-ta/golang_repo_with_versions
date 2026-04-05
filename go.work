@@ -2,6 +2,6 @@ go 1.26.1
 
 use (
 	./app
-	./lib1
-	./lib2
+// ./lib1
+// ./lib2
 )

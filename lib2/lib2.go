@@ -2,4 +2,4 @@ package lib2
 
 import "fmt"
 
-func Version() { fmt.Println("lib2 v1.0.0") }
+func Version() { fmt.Println("lib2 v2.0.0") }
